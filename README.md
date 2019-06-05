@@ -4,7 +4,7 @@ You are to write a number of small unix tools which maintain a binary file calle
 
 - `init` initialize a students file
 - `new_student` add new student data which is entered by the user to the file
-- `list_all_students` list all student 
+- `list_all_students` list all student
 - `display_student <id>` displays the student with the id as given in the command line parameter
 - `update_student <id>` lets the user update the student with the id given in the command line parameter
 
